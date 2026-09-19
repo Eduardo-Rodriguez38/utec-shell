@@ -8,3 +8,4 @@ Scripts basicos de shell en Bash.
 
 
 - `0-current_working_directory`: imprime el nombre de ruta absoluto del directorio del trabajo actual.
+- `1-listit`: muestra la lista de contenidos del directorio actual.
