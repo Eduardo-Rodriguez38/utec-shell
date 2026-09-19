@@ -15,3 +15,4 @@ Scripts basicos de shell en Bash.
 - `5-listfilesdigitonly`: muestra el contenido del directorio actual en formato largo, con IDs de usuario y grupo numéricos, incluidos los archivos ocultos.
 - `6-firstdirectory`: crea un directorio llamado my_first_directory en /tmp/.
 - `7-movethatfile`: mueve el archivo betty de /tmp/ a /tmp/my_first_directory.
+- `8-firstdelete`: elimina el archivo betty de /tmp/my_first_directory.
