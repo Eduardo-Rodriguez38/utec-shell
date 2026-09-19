@@ -20,3 +20,4 @@ Scripts basicos de shell en Bash.
 - `10-back`: cambia el directorio de trabajo al directorio anterior.
 - `11-lists`: enumera todos los archivos del directorio actual, el directorio padre y /boot, en formato largo.
 - `12-file_type`: imprime el tipo del archivo iamafile ubicado en /tmp.
+- `13-symbolic_link`: crea un enlace simbólico llamado __ls__ que apunta a /bin/ls.
