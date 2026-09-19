@@ -24,3 +24,4 @@ Scripts basicos de shell en Bash.
 - `14-copy_html`: copia los archivos HTML del directorio actual al directorio padre, solo si no existen o son más nuevos.
 - `15-lets_move`: mueve todos los archivos que comienzan con mayúscula al directorio /tmp/u.
 - `16-clean_emacs`: elimina todos los archivos del directorio actual que terminen con el carácter ~.
+- `17-tree`: crea los directorios welcome/, welcome/to/ y welcome/to/school en el directorio actual.
