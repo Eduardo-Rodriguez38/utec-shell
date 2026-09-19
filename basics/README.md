@@ -22,3 +22,4 @@ Scripts basicos de shell en Bash.
 - `12-file_type`: imprime el tipo del archivo iamafile ubicado en /tmp.
 - `13-symbolic_link`: crea un enlace simbólico llamado __ls__ que apunta a /bin/ls.
 - `14-copy_html`: copia los archivos HTML del directorio actual al directorio padre, solo si no existen o son más nuevos.
+- `15-lets_move`: mueve todos los archivos que comienzan con mayúscula al directorio /tmp/u.
