@@ -21,3 +21,4 @@ Scripts basicos de shell en Bash.
 - `11-lists`: enumera todos los archivos del directorio actual, el directorio padre y /boot, en formato largo.
 - `12-file_type`: imprime el tipo del archivo iamafile ubicado en /tmp.
 - `13-symbolic_link`: crea un enlace simbólico llamado __ls__ que apunta a /bin/ls.
+- `14-copy_html`: copia los archivos HTML del directorio actual al directorio padre, solo si no existen o son más nuevos.
