@@ -32,3 +32,6 @@ Establece el modo del archivo hello igual al modo de olleh.
 
 ## 11-directories_permissions
 Añade permiso de ejecución a todos los subdirectorios del directorio actual, sin modificar los archivos regulares.
+
+## 12-directory_permissions
+Crea un directorio llamado my_dir con permisos 751.
