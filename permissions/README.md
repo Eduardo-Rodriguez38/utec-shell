@@ -23,3 +23,6 @@ Añade permiso de ejecución al propietario, al grupo y a los demás usuarios, a
 
 ## 8-James_Bond
 Establece permisos 007 en el archivo hello: sin permisos para propietario y grupo, todos los permisos para otros.
+
+## 9-John_Doe
+Establece permisos 753 en el archivo hello (rwxr-x-wx).
