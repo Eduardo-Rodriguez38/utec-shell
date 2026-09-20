@@ -26,3 +26,6 @@ Establece permisos 007 en el archivo hello: sin permisos para propietario y grup
 
 ## 9-John_Doe
 Establece permisos 753 en el archivo hello (rwxr-x-wx).
+
+## 10-mirror_permissions
+Establece el modo del archivo hello igual al modo de olleh.
