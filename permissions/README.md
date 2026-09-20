@@ -20,3 +20,6 @@ Añade permiso de ejecución al propietario y al grupo, y permiso de lectura a o
 
 ## 7-everybody
 Añade permiso de ejecución al propietario, al grupo y a los demás usuarios, al archivo hello.
+
+## 8-James_Bond
+Establece permisos 007 en el archivo hello: sin permisos para propietario y grupo, todos los permisos para otros.
