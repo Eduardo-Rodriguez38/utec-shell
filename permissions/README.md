@@ -38,3 +38,6 @@ Crea un directorio llamado my_dir con permisos 751.
 
 ## 13-change_group
 Cambia el grupo propietario a school para el archivo hello.
+
+## 2-groups
+Imprime todos los grupos de los que forma parte el usuario actual.
