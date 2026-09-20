@@ -11,3 +11,6 @@ Cambia el propietario del archivo hello al usuario betty.
 
 ## 4-empty
 Crea un archivo vacío llamado hello.
+
+## 5-execute
+Añade permiso de ejecución al propietario del archivo hello.
