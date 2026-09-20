@@ -29,3 +29,6 @@ Establece permisos 753 en el archivo hello (rwxr-x-wx).
 
 ## 10-mirror_permissions
 Establece el modo del archivo hello igual al modo de olleh.
+
+## 11-directories_permissions
+Añade permiso de ejecución a todos los subdirectorios del directorio actual, sin modificar los archivos regulares.
