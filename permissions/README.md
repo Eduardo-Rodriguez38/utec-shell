@@ -8,3 +8,6 @@ Imprime el nombre de usuario efectivo del usuario actual.
 
 ## 3-new_owner
 Cambia el propietario del archivo hello al usuario betty.
+
+## 4-empty
+Crea un archivo vacío llamado hello.
