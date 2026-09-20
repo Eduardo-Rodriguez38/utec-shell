@@ -35,3 +35,6 @@ Añade permiso de ejecución a todos los subdirectorios del directorio actual, s
 
 ## 12-directory_permissions
 Crea un directorio llamado my_dir con permisos 751.
+
+## 13-change_group
+Cambia el grupo propietario a school para el archivo hello.
