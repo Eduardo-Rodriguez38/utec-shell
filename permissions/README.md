@@ -14,3 +14,6 @@ Crea un archivo vacío llamado hello.
 
 ## 5-execute
 Añade permiso de ejecución al propietario del archivo hello.
+
+## 6-multiple_permissions
+Añade permiso de ejecución al propietario y al grupo, y permiso de lectura a otros, al archivo hello.
