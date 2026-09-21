@@ -47,3 +47,6 @@ Cambia el propietario a vincent y el grupo propietario a staff de todos los arch
 
 ## 15-symbolic_link_permissions
 Cambia el propietario y grupo propietario del enlace simbólico _hello a vincent y staff, sin afectar el archivo al que apunta.
+
+## 16-if_only
+Cambia el propietario del archivo hello a vincent solo si actualmente pertenece al usuario guillaume.
