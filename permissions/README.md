@@ -44,3 +44,6 @@ Imprime todos los grupos de los que forma parte el usuario actual.
 
 ## 14-change_owner_and_group
 Cambia el propietario a vincent y el grupo propietario a staff de todos los archivos y directorios en el directorio de trabajo.
+
+## 15-symbolic_link_permissions
+Cambia el propietario y grupo propietario del enlace simbólico _hello a vincent y staff, sin afectar el archivo al que apunta.
