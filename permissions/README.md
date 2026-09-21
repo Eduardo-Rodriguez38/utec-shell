@@ -41,3 +41,6 @@ Cambia el grupo propietario a school para el archivo hello.
 
 ## 2-groups
 Imprime todos los grupos de los que forma parte el usuario actual.
+
+## 14-change_owner_and_group
+Cambia el propietario a vincent y el grupo propietario a staff de todos los archivos y directorios en el directorio de trabajo.
