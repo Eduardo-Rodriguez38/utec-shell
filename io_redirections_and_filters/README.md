@@ -1,2 +1,4 @@
- # I/O Redirections and Filters
-  - 0-hello_world: imprime "Hello, World" seguido de una nueva línea.
+# I/O Redirections and Filters
+
+- 0-hello_world: imprime "Hello, World" seguido de una nueva línea.
+- 1-confused_smiley: muestra el emoticono confundido "(Ôo)'.
