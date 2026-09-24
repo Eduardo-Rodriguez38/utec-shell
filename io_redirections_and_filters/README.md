@@ -16,3 +16,4 @@
 - 13-unique: imprime ordenadas las palabras que aparecen exactamente una vez en la entrada.
 - 14-findthatword: muestra las líneas de /etc/passwd que contienen root.
 - 15-countthatword: cuenta las líneas de /etc/passwd que contienen bin.
+- 16-whatsnext: muestra las líneas de /etc/passwd que contienen root y las 3 líneas siguientes.
