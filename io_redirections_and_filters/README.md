@@ -13,3 +13,4 @@
 - 10-no_more_js: elimina todos los archivos .js del directorio actual y sus subdirectorios.
 - 11-directories: cuenta los directorios y subdirectorios del directorio actual, incluidos los ocultos.
 - 12-newest_files: muestra los 10 archivos más recientes del directorio actual, uno por línea.
+- 13-unique: imprime ordenadas las palabras que aparecen exactamente una vez en la entrada.
