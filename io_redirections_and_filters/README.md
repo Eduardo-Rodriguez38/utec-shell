@@ -17,3 +17,4 @@
 - 14-findthatword: muestra las líneas de /etc/passwd que contienen root.
 - 15-countthatword: cuenta las líneas de /etc/passwd que contienen bin.
 - 16-whatsnext: muestra las líneas de /etc/passwd que contienen root y las 3 líneas siguientes.
+- 17-hidethisword: muestra las líneas de /etc/passwd que no contienen bin.
