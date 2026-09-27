@@ -7,3 +7,4 @@
 | `2-path` | Agrega `/action` al final de la variable `PATH` |
 | `3-paths` | Cuenta la cantidad de directorios en la variable `PATH` |
 | `4-global_variables` | Lista las variables de entorno (globales) |
+| `5-local_variables` | Lista todas las variables locales, de entorno y las funciones |
