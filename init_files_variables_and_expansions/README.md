@@ -16,3 +16,4 @@
 | `11-binary_to_decimal` | Convierte el número binario de `BINARY` a base 10 |
 | `12-combinations` | Imprime todas las combinaciones de dos letras minúsculas, excepto `oo` |
 | `13-print_float` | Imprime el número de `NUM` con dos decimales |
+| `14-decimal_to_hexadecimal` | Convierte el número de `DECIMAL` a base 16 |
