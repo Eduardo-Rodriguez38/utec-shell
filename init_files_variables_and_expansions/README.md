@@ -12,3 +12,4 @@
 | `7-create_global_variable` | Crea la variable global `BEST` con el valor `School` |
 | `8-true_knowledge` | Imprime la suma de 128 y el valor de `TRUEKNOWLEDGE` |
 | `9-divide_and_rule` | Imprime el resultado de `POWER` dividido por `DIVIDE` |
+| `10-love_exponent_breath` | Imprime `BREATH` elevado a la potencia `LOVE` |
