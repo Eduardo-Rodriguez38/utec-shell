@@ -4,3 +4,4 @@
 |---------|-------------|
 | `0-alias` | Crea un alias llamado `ls` con el valor `rm -f *` |
 | `1-hello_you` | Imprime `hello` seguido del usuario actual de Linux |
+| `2-path` | Agrega `/action` al final de la variable `PATH` |
