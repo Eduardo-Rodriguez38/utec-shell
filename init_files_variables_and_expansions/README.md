@@ -13,3 +13,4 @@
 | `8-true_knowledge` | Imprime la suma de 128 y el valor de `TRUEKNOWLEDGE` |
 | `9-divide_and_rule` | Imprime el resultado de `POWER` dividido por `DIVIDE` |
 | `10-love_exponent_breath` | Imprime `BREATH` elevado a la potencia `LOVE` |
+| `11-binary_to_decimal` | Convierte el número binario de `BINARY` a base 10 |
